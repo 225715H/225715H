@@ -1,6 +1,6 @@
 ## About Me
 
-26卒予定のCS専攻の大学3年生です。
+26卒予定のCS専攻の大学生です。
 
 - Pronouns: [翻訳と単語帳を組み合わせたアプリ](https://apps.apple.com/jp/app/%E7%BF%BB%E8%A8%B3%E3%81%A8%E5%8D%98%E8%AA%9E%E5%B8%B3%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%82%A2%E3%83%97%E3%83%AA-oblivion/id6657987747?platform=iphone)をApp Storeにリリースしたので、使ってみてください！！
 
